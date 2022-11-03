@@ -1,7 +1,5 @@
 # LeapYear
 
-# Leap Year
-
 ## Table of Contents
 
 - [About](#about)
