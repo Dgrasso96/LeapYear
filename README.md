@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-This Java program allows you to determine if a year is a leap year.
+This Java application allows you to determine if a year is a leap year.
 
 ## Getting Started <a name = "getting_started"></a>
 
