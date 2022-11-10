@@ -14,6 +14,8 @@ public class Main {
 		} else {
 			System.out.println(val + " non è un anno bisestile");
 		}
+		
+		in.close();
 	}
 }
 
